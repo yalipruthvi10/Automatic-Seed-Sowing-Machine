@@ -29,4 +29,4 @@ Clock → Counter → Control Logic → Motor → Seed Drop
 - GPS-based precision farming
 
 ## 👨‍💻 Author
-Pruthvi
+Pruthviraj S Yali
